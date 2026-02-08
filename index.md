@@ -1,5 +1,5 @@
 ---
-title: The Silk Road
+title: Ghost Buns Takes Over the World Part I
 layout: base
 date: 2026-01-24
 ---
